@@ -1,0 +1,27 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Dancing Script", cursive;
+  color: rgb(100, 222, 0);
+}
+
+.HW {
+  color: rgb(32, 175, 19);
+}
+
+.but {
+  color: rgb(32, 175, 19);
+}
+
+select {
+  color: rgb(32, 175, 19);
+}
+
+h2 {
+  text-align: left;
+}
