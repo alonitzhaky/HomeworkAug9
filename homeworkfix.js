@@ -4,12 +4,8 @@ function doSomeCalc() {
 }
 function yayForMe() {
     console.log("yay for you")
-}   
+}
 /* Mission 2 */
 function doCombo() {
     console.log("i hate JavaScript")
-}
-function test()
-{
-
 }
